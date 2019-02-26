@@ -1,0 +1,23 @@
+{
+  "name": "saurabh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwebdeveloper/Animationbutton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skwebdeveloper/Animationbutton/issues"
+  },
+  "homepage": "https://github.com/skwebdeveloper/Animationbutton#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
